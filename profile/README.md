@@ -12,21 +12,6 @@ We demonstrate the framework's capabilities and scalability by replicating the E
 
 ---
 
-## 📂 Project Structure
-
-This repository contains the following main folders:
-
-- **/Simulation**  
-  This folder contains the backend code that implements and maintains the main simulation logic.
-
-- **/UI**  
-  This folder provides the configuration tools for creating multiple simulation instances and includes a live view to monitor the simulations as they run.
-
-- **/Notebooks**  
-  This folder includes Jupyter Notebooks used to generate the final report plots and analyze the evaluation results of the simulations.
-
----
-
 ## 👥 Authors
 
 - **Yannik Hahn** – [yannik.hahn@students.uni-mannheim.de](mailto:yannik.hahn@students.uni-mannheim.de)
