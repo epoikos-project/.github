@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/Logo.png" alt="Project Logo" width="300"/>
+  <img src="logo.png" alt="Project Logo" width="300"/>
 </p>
 
 # EpOikoS: Self-Organization among LLM Agents
